@@ -1,0 +1,7 @@
+# ninja log v5
+21	1153	6616203888396069	CMakeFiles/PEA_zad2.dir/Menu.cpp.obj	12d50f57e4ab3d53
+24	1166	6616203888516054	CMakeFiles/PEA_zad2.dir/ArrayClass.cpp.obj	547e8bceae88dce8
+0	1662	6616203893186352	CMakeFiles/PEA_zad2.dir/main.cpp.obj	c2a24c98854b1dc6
+14	1672	6616203893576336	CMakeFiles/PEA_zad2.dir/SimulatedAnnealing.cpp.obj	4dc55819786f1e2f
+17	1772	6616203894586263	CMakeFiles/PEA_zad2.dir/TabuSearch.cpp.obj	91d29b6a9b92b380
+1773	2282	6616203899616212	PEA_zad2.exe	5f5890a5ba5530ab
