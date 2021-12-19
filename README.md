@@ -1,5 +1,5 @@
 # PEA_zad2
-Program do zadania drugiego z projektu z Projektowania Efektywnych Algorytmów z semestru V.\n
+Program do zadania drugiego z projektu z Projektowania Efektywnych Algorytmów z semestru V.  
 Wykonane algorytmy:
 
   - Simulated Annealing
