@@ -284,7 +284,7 @@ void TabuSearch::findPath() {
 				oldPath.cost = newPath.cost;
 			}
 			if (newPath.cost < bestPath.cost) {
-				cout << newPath.cost << "\n";
+				//cout << newPath.cost << "\n";
 				copyPath(newPath.path, bestPath.path);
 				bestPath.cost = newPath.cost;
 				moment = (read_QPC() - start) * 1'000 / frequency;

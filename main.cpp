@@ -46,10 +46,10 @@ int main() {
 				if (ARRAY == nullptr) {
 					cout << "\tNiezainicjalozowano tabeli." << endl;
 				} else {
-					//for (int i = 0; i < 10; ++i) {
+					for (int i = 0; i < 10; ++i) {
 					TabuSearch ts(ARRAY, N, stop, neighborDefinition);
 					ts.findPath();
-					//}
+					}
 				}
 				cout << "\t";
 				system("pause");
@@ -64,10 +64,10 @@ int main() {
 				if (ARRAY == nullptr) {
 					cout << "\tNiezainicjalozowano tabeli." << endl;
 				} else {
-					//for (int i = 0; i < 10; ++i) {
+					for (int i = 0; i < 10; ++i) {
 					SimulatedAnnealing sa(ARRAY, N, alpha, stop);
 					sa.findPath();
-					//}
+					}
 				}
 				cout << "\t";
 				system("pause");
